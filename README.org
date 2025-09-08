@@ -4,6 +4,6 @@ A correct and safe(er) JSON RFC 8259 parser with sane defaults.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Zulu-Inuoe/jzon.git |
-| commit  | 87a22d2                                    |
+| commit  | 85a22b9                                    |
 | systems | com.inuoe.jzon                             |
 |---------+--------------------------------------------|
